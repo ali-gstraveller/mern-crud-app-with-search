@@ -1,1 +1,1 @@
-crud functionlity included search one
+crud functionality included search one with Next JS.
